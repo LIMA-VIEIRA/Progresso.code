@@ -1,0 +1,8 @@
+<Project Sdk="MICROSOFT.NET.SDK">
+
+<PropertyGroup>
+<Outputtype>Exe</OutputType>
+<TargetFramework>Netecoreapp5.0<TargetFramework>
+</PropertyGruup>
+
+</Project>
